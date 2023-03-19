@@ -1,0 +1,447 @@
+{
+  "frames": {
+    "RAPHAEL_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 621,
+        "h": 559
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 31,
+        "w": 621,
+        "h": 559
+      },
+      "sourceSize": {
+        "w": 972,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_DEMON_2.png": {
+      "frame": {
+        "x": 2,
+        "y": 565,
+        "w": 615,
+        "h": 579
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 4,
+        "w": 615,
+        "h": 579
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "LEAH_2.png": {
+      "frame": {
+        "x": 627,
+        "y": 2,
+        "w": 595,
+        "h": 573
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 0,
+        "w": 595,
+        "h": 573
+      },
+      "sourceSize": {
+        "w": 800,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "RAMIEL_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 1148,
+        "w": 572,
+        "h": 548
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 14,
+        "w": 572,
+        "h": 548
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "LILITH_2.png": {
+      "frame": {
+        "x": 621,
+        "y": 601,
+        "w": 476,
+        "h": 560
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 20,
+        "w": 476,
+        "h": 560
+      },
+      "sourceSize": {
+        "w": 579,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "URBANA_1.png": {
+      "frame": {
+        "x": 621,
+        "y": 1081,
+        "w": 518,
+        "h": 554
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 36,
+        "w": 518,
+        "h": 554
+      },
+      "sourceSize": {
+        "w": 972,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ERIKA_1.png": {
+      "frame": {
+        "x": 1204,
+        "y": 2,
+        "w": 427,
+        "h": 543
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 38,
+        "w": 427,
+        "h": 543
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OTTO_1.png": {
+      "frame": {
+        "x": 1204,
+        "y": 549,
+        "w": 373,
+        "h": 513
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 51,
+        "w": 373,
+        "h": 513
+      },
+      "sourceSize": {
+        "w": 879,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "RAMIEL_2.png": {
+      "frame": {
+        "x": 1185,
+        "y": 1066,
+        "w": 420,
+        "h": 493
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 25,
+        "w": 420,
+        "h": 493
+      },
+      "sourceSize": {
+        "w": 597,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "LEXI_1.png": {
+      "frame": {
+        "x": 1635,
+        "y": 2,
+        "w": 368,
+        "h": 484
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 55,
+        "w": 368,
+        "h": 484
+      },
+      "sourceSize": {
+        "w": 711,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "PAIMON_1.png": {
+      "frame": {
+        "x": 1581,
+        "y": 549,
+        "w": 415,
+        "h": 482
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 108,
+        "w": 415,
+        "h": 482
+      },
+      "sourceSize": {
+        "w": 972,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_MAGE_1.png": {
+      "frame": {
+        "x": 1609,
+        "y": 1035,
+        "w": 301,
+        "h": 472
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 113,
+        "w": 301,
+        "h": 472
+      },
+      "sourceSize": {
+        "w": 579,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ELLIE_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 1700,
+        "w": 312,
+        "h": 444
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 114,
+        "w": 312,
+        "h": 444
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "EMMA_2.png": {
+      "frame": {
+        "x": 1179,
+        "y": 1563,
+        "w": 444,
+        "h": 378
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 186,
+        "w": 444,
+        "h": 378
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "EMMA_1.png": {
+      "frame": {
+        "x": 450,
+        "y": 1700,
+        "w": 306,
+        "h": 420
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 144,
+        "w": 306,
+        "h": 420
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_ARCHER_1_1.png": {
+      "frame": {
+        "x": 874,
+        "y": 1603,
+        "w": 283,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 179,
+        "w": 283,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 573,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_MUSKET_1.png": {
+      "frame": {
+        "x": 1561,
+        "y": 1563,
+        "w": 319,
+        "h": 395
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 183,
+        "w": 319,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 681,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_ARCHER_2_1.png": {
+      "frame": {
+        "x": 874,
+        "y": 1603,
+        "w": 283,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 179,
+        "w": 283,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 573,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "anim-3.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2005,
+      "h": 2014
+    },
+    "scale": 1
+  }
+}

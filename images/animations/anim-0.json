@@ -1,0 +1,255 @@
+{
+  "frames": {
+    "EVELYNN_2.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 948,
+        "h": 546
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 42,
+        "w": 948,
+        "h": 546
+      },
+      "sourceSize": {
+        "w": 1020,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "AZRAEL_2.png": {
+      "frame": {
+        "x": 2,
+        "y": 552,
+        "w": 897,
+        "h": 528
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 48,
+        "w": 897,
+        "h": 528
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JEANNE_2.png": {
+      "frame": {
+        "x": 954,
+        "y": 2,
+        "w": 864,
+        "h": 575
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 5,
+        "w": 864,
+        "h": 575
+      },
+      "sourceSize": {
+        "w": 879,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ADOLPHIA_2.png": {
+      "frame": {
+        "x": 2,
+        "y": 1084,
+        "w": 843,
+        "h": 523
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 29,
+        "w": 843,
+        "h": 523
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ZALEOS_2.png": {
+      "frame": {
+        "x": 1533,
+        "y": 2,
+        "w": 808,
+        "h": 487
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 31,
+        "w": 808,
+        "h": 487
+      },
+      "sourceSize": {
+        "w": 978,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ERIKA_2.png": {
+      "frame": {
+        "x": 849,
+        "y": 1084,
+        "w": 795,
+        "h": 509
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 43,
+        "w": 795,
+        "h": 509
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_KNIGHT_2.png": {
+      "frame": {
+        "x": 2,
+        "y": 1611,
+        "w": 695,
+        "h": 386
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 201,
+        "w": 695,
+        "h": 386
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "OTTO_2.png": {
+      "frame": {
+        "x": 849,
+        "y": 1597,
+        "w": 611,
+        "h": 394
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 243,
+        "y": 170,
+        "w": 611,
+        "h": 394
+      },
+      "sourceSize": {
+        "w": 879,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "KATHERINE_2.png": {
+      "frame": {
+        "x": 1648,
+        "y": 814,
+        "w": 574,
+        "h": 340
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 195,
+        "w": 574,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 730,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "KATYA_1.png": {
+      "frame": {
+        "x": 1648,
+        "y": 1392,
+        "w": 332,
+        "h": 565
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 10,
+        "w": 332,
+        "h": 565
+      },
+      "sourceSize": {
+        "w": 879,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "anim-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2022,
+      "h": 1999
+    },
+    "scale": 1
+  }
+}

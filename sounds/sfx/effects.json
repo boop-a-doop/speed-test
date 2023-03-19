@@ -1,0 +1,124 @@
+{
+  "resources": [
+    "./effects.ogg",
+    "./effects.m4a",
+    "./effects.ac3"
+  ],
+  "spritemap": {
+    "assasin attack": {
+      "start": 0,
+      "end": 1.122562358276644,
+      "loop": false
+    },
+    "assination": {
+      "start": 3,
+      "end": 5.109569160997733,
+      "loop": false
+    },
+    "cannons firing": {
+      "start": 7,
+      "end": 11.807596371882086,
+      "loop": false
+    },
+    "drp off": {
+      "start": 13,
+      "end": 13.132902494331066,
+      "loop": false
+    },
+    "fireball fire magic": {
+      "start": 15,
+      "end": 16.704648526077097,
+      "loop": false
+    },
+    "general attack": {
+      "start": 18,
+      "end": 19.285056689342404,
+      "loop": false
+    },
+    "general fighting": {
+      "start": 21,
+      "end": 22.830680272108843,
+      "loop": false
+    },
+    "healing": {
+      "start": 24,
+      "end": 25.624875283446713,
+      "loop": false
+    },
+    "hover": {
+      "start": 27,
+      "end": 27.256984126984126,
+      "loop": false
+    },
+    "ice magic": {
+      "start": 29,
+      "end": 30.058820861678004,
+      "loop": false
+    },
+    "large magic blast": {
+      "start": 32,
+      "end": 34.62485260770975,
+      "loop": false
+    },
+    "light magic slice": {
+      "start": 36,
+      "end": 37.59498866213152,
+      "loop": false
+    },
+    "lightning strike": {
+      "start": 39,
+      "end": 41.25954648526077,
+      "loop": false
+    },
+    "magic missle": {
+      "start": 43,
+      "end": 45.112426303854875,
+      "loop": false
+    },
+    "musket firing": {
+      "start": 47,
+      "end": 48.652426303854874,
+      "loop": false
+    },
+    "pick up": {
+      "start": 50,
+      "end": 50.15544217687075,
+      "loop": false
+    },
+    "power up": {
+      "start": 52,
+      "end": 55.618707482993194,
+      "loop": false
+    },
+    "putting up shield": {
+      "start": 57,
+      "end": 58.6791156462585,
+      "loop": false
+    },
+    "selecting an ability": {
+      "start": 60,
+      "end": 60.43707482993197,
+      "loop": false
+    },
+    "shooting arrows crossbow": {
+      "start": 62,
+      "end": 62.45478458049887,
+      "loop": false
+    },
+    "shooting arrows": {
+      "start": 64,
+      "end": 64.50049886621315,
+      "loop": false
+    },
+    "sword clash": {
+      "start": 66,
+      "end": 67.02113378684807,
+      "loop": false
+    },
+    "turn counter blip": {
+      "start": 69,
+      "end": 69.37977324263039,
+      "loop": false
+    }
+  }
+}

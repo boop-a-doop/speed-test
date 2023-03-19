@@ -1,0 +1,327 @@
+{
+  "frames": {
+    "PAIMON_2.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 819,
+        "h": 543
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 38,
+        "w": 819,
+        "h": 543
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_ASSASSIN_2.png": {
+      "frame": {
+        "x": 2,
+        "y": 549,
+        "w": 735,
+        "h": 502
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 93,
+        "w": 735,
+        "h": 502
+      },
+      "sourceSize": {
+        "w": 972,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "LUCILE_2.png": {
+      "frame": {
+        "x": 825,
+        "y": 2,
+        "w": 720,
+        "h": 492
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 41,
+        "w": 720,
+        "h": 492
+      },
+      "sourceSize": {
+        "w": 978,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "AZRAEL_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 1055,
+        "w": 693,
+        "h": 547
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 693,
+        "h": 547
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "KATYA_2.png": {
+      "frame": {
+        "x": 741,
+        "y": 726,
+        "w": 668,
+        "h": 528
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 41,
+        "w": 668,
+        "h": 528
+      },
+      "sourceSize": {
+        "w": 879,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "SABRINA_2.png": {
+      "frame": {
+        "x": 1321,
+        "y": 2,
+        "w": 667,
+        "h": 401
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 114,
+        "w": 667,
+        "h": 401
+      },
+      "sourceSize": {
+        "w": 914,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TESSA_2.png": {
+      "frame": {
+        "x": 1273,
+        "y": 726,
+        "w": 662,
+        "h": 445
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 133,
+        "w": 662,
+        "h": 445
+      },
+      "sourceSize": {
+        "w": 711,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_KNIGHT_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 1606,
+        "w": 579,
+        "h": 409
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 138,
+        "w": 579,
+        "h": 409
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_MAGE_2.png": {
+      "frame": {
+        "x": 699,
+        "y": 1398,
+        "w": 502,
+        "h": 575
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 15,
+        "w": 502,
+        "h": 575
+      },
+      "sourceSize": {
+        "w": 579,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ZALEOS_1.png": {
+      "frame": {
+        "x": 1205,
+        "y": 1398,
+        "w": 575,
+        "h": 461
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 108,
+        "w": 575,
+        "h": 461
+      },
+      "sourceSize": {
+        "w": 978,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JACKIE_1.png": {
+      "frame": {
+        "x": 1726,
+        "y": 2,
+        "w": 288,
+        "h": 510
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 144,
+        "y": 78,
+        "w": 288,
+        "h": 510
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "LILITH_1.png": {
+      "frame": {
+        "x": 1670,
+        "y": 1392,
+        "w": 337,
+        "h": 477
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 144,
+        "y": 108,
+        "w": 337,
+        "h": 477
+      },
+      "sourceSize": {
+        "w": 879,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ALEXA_1.png": {
+      "frame": {
+        "x": 1722,
+        "y": 673,
+        "w": 289,
+        "h": 462
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 122,
+        "w": 289,
+        "h": 462
+      },
+      "sourceSize": {
+        "w": 800,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "anim-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2016,
+      "h": 2017
+    },
+    "scale": 1
+  }
+}

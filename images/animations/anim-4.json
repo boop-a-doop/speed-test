@@ -1,0 +1,351 @@
+{
+  "frames": {
+    "ELLIE_2.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 480,
+        "h": 540
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 18,
+        "w": 480,
+        "h": 540
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "LEAH_1.png": {
+      "frame": {
+        "x": 486,
+        "y": 2,
+        "w": 518,
+        "h": 478
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 61,
+        "w": 518,
+        "h": 478
+      },
+      "sourceSize": {
+        "w": 800,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "LUCILE_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 546,
+        "w": 497,
+        "h": 518
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 77,
+        "w": 497,
+        "h": 518
+      },
+      "sourceSize": {
+        "w": 579,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "JACKIE_2.png": {
+      "frame": {
+        "x": 968,
+        "y": 2,
+        "w": 516,
+        "h": 516
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 72,
+        "w": 516,
+        "h": 516
+      },
+      "sourceSize": {
+        "w": 576,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_ARCHER_1_2.png": {
+      "frame": {
+        "x": 968,
+        "y": 522,
+        "w": 512,
+        "h": 489
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 89,
+        "w": 512,
+        "h": 489
+      },
+      "sourceSize": {
+        "w": 681,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ADOLPHIA_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 1047,
+        "w": 456,
+        "h": 509
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 43,
+        "w": 456,
+        "h": 509
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "FREDA_1.png": {
+      "frame": {
+        "x": 524,
+        "y": 1015,
+        "w": 507,
+        "h": 478
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 61,
+        "w": 507,
+        "h": 478
+      },
+      "sourceSize": {
+        "w": 711,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_ARCHER_2_2.png": {
+      "frame": {
+        "x": 1488,
+        "y": 2,
+        "w": 503,
+        "h": 489
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 89,
+        "w": 503,
+        "h": 489
+      },
+      "sourceSize": {
+        "w": 681,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "VINEA_1.png": {
+      "frame": {
+        "x": 1484,
+        "y": 522,
+        "w": 440,
+        "h": 492
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 98,
+        "w": 440,
+        "h": 492
+      },
+      "sourceSize": {
+        "w": 972,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "MARIE_1.png": {
+      "frame": {
+        "x": 1484,
+        "y": 966,
+        "w": 434,
+        "h": 490
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 83,
+        "w": 434,
+        "h": 490
+      },
+      "sourceSize": {
+        "w": 800,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GENERIC_ASSASSIN_1.png": {
+      "frame": {
+        "x": 524,
+        "y": 524,
+        "w": 425,
+        "h": 482
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 108,
+        "w": 425,
+        "h": 482
+      },
+      "sourceSize": {
+        "w": 579,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "REINA_1.png": {
+      "frame": {
+        "x": 2,
+        "y": 1507,
+        "w": 479,
+        "h": 462
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 77,
+        "w": 479,
+        "h": 462
+      },
+      "sourceSize": {
+        "w": 800,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TESSA_1.png": {
+      "frame": {
+        "x": 1035,
+        "y": 1015,
+        "w": 434,
+        "h": 478
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 61,
+        "w": 434,
+        "h": 478
+      },
+      "sourceSize": {
+        "w": 711,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "KATHERINE_1.png": {
+      "frame": {
+        "x": 485,
+        "y": 1507,
+        "w": 214,
+        "h": 335
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 217,
+        "w": 214,
+        "h": 335
+      },
+      "sourceSize": {
+        "w": 910,
+        "h": 600
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "anim-4.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1979,
+      "h": 1971
+    },
+    "scale": 1
+  }
+}
